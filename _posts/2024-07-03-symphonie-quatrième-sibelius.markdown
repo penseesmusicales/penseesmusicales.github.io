@@ -17,3 +17,7 @@ Dans ce contexte, Sibelius accomplit la montée de la tension. Les fantômes, to
 Vient alors le dernier mouvement, avec un premier chant d’exubérante et de délirante détresse. C’est la folie, couplée à la nécessité d’être encore après avoir su ce qu’aucun homme ne peut tolérer de savoir sur l’intérieur. La crise se mue en ironique danse, aussi lasse qu’expansive, comme accomplie par pur abandon, et par conscience aussi que la solitude est l’unique possibilité après ces révélations. Ayant réalisé cela, la chanson se fait de moins en moins humaine, et de plus en plus spectrale, fluide et fantomatique. C’est la folie d’un homme transfiguré, prêt à renoncer à son humanité, pour ne souffrir plus de ce qu’il sait de son intériorité. Ainsi vient la réalisation du moteur mécanique annoncé au début : l’homme en prise avec sa souffrance profonde ne s’envisage plus que selon les rouages mécaniques de la psyché. Et enfin il s’éteint, lorsque le sommeil est le repos de sa torture.
 
 A l’époque où la chaîne Itapirkanmaa2 disposait d’une grande masse de restaurations musicales, il y avait une magnifique restauration de l’enregistrement de Toscanini, avec pour couverture un tableau de Akseli Gallen-Kallela, Lemminkaïsen äiti (“La mère de Lemminkaïnen”). Le trouble intense et brut de la scène était ce qui s’accordait prodigieusement à la symphonie.
+
+<p align="center">
+  <img src="lemminkainen-mother.jpg" width="100%"/>
+</p>
