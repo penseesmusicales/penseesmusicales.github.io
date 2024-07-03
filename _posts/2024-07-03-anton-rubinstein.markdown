@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  6 Préludes et fugues de Rubinstein
+title:  6 Préludes et Fugues de Rubinstein
 date:   2024-07-03 12:47:57 +0200
 categories: jekyll update
 ---
