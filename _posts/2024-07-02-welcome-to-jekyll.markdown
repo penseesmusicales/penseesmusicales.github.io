@@ -1,6 +1,7 @@
+---
 layout: post
 title:  Quatrième symphonie de Sibelius
-date:   2024-07-03 12:38:00 +0200
+date:   2024-07-03 12:47:57 +0200
 categories: jekyll update
 ---
 L'œuvre débute avec un bruit sourd, presque mécanique : c’est la machine qui va servir de moteur à toutes les avancées dans les ténèbres. Mais ce n’est pas une symphonie de guerre à échelle humaine, ou une symphonie industrielle, car la voix des abysses se met à chanter juste après. C’est un chant obscur, senti jusqu’au plus profond de l’être.
