@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Buson et la violence, partie première
+title:  Busoni et la violence, partie première
 date:   2024-07-03 13:07:57 +0200
 categories: jekyll update
 ---
