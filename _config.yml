@@ -13,16 +13,23 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Your awesome title
-email: your-email@example.com
+title: Pensées musicales
+email: sofyan.alhaj@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Bienvenue sur le blog Pensées musicales ! Il s'agit de mon moyen de
+  partager mes idées et sentiments après des écoutes musicales prolongées
+  et multiplement réitérées. Je n'ai, à ce jour, jamais reçu d'éducation
+  rigoureuse en théorie musicale. Je traite donc la musique telle qu'elle
+  se manifeste à mon corps et à ma pensée, puis il me plaît de restituer 
+  sur ce site quelques aspects de l'expérience esthétique qu'elle suscite.
+  J'espère de la sorte permettre à d'autres personnes de découvrir leur
+  propre approche sensible de la musique, ainsi que des pièces plus ou
+  moins connues, principalement romantiques, post-romantiques et
+  modernes, peu importe leur niveau d'érudition en théorie musicale. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+#twitter_username: jekyllrb
+#github_username:  jekyll
 
 # Build settings
 markdown: kramdown
