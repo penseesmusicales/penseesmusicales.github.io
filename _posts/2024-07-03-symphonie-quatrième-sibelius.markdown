@@ -19,5 +19,5 @@ Vient alors le dernier mouvement, avec un premier chant d’exubérante et de d�
 A l’époque où la chaîne Itapirkanmaa2 disposait d’une grande masse de restaurations musicales, il y avait une magnifique restauration de l’enregistrement de Toscanini, avec pour couverture un tableau de Akseli Gallen-Kallela, Lemminkaïsen äiti (“La mère de Lemminkaïnen”). Le trouble intense et brut de la scène était ce qui s’accordait prodigieusement à la symphonie.
 
 <p align="center">
-  <img src="lemminkainen-mother.jpg" width="100%"/>
+  <img src="blog/lemminkainen-mother.jpg" width="100%"/>
 </p>
