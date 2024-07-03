@@ -1,18 +1,8 @@
 ---
 layout: page
-title: About
+title: L'auteur des articles
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Je m'appelle Sofyan Al-haj Johnston, j'ai vingt-deux ans et je suis amateur d'art. N'hésitez pas à m'écrire si vous souhaitez réagir de quelque manière que ce soit aux articles que je publie ici, ou si vous avez la moindre question.
+I might publish English translations of some of my articles, but, if there is any article that has not been translated which catches your attention, feel free to write to me and ask for an English version to be published. I shall happily oblige.
