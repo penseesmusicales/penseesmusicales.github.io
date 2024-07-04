@@ -19,7 +19,7 @@ Vient alors le dernier mouvement, avec un premier chant d’exubérante et de d�
 A l’époque où la chaîne Itapirkanmaa2 disposait d’une grande masse de restaurations musicales, il y avait une magnifique restauration de l’enregistrement de Toscanini, avec pour couverture un tableau de Akseli Gallen-Kallela, Lemminkaïsen äiti (“La mère de Lemminkaïnen”). Le trouble intense et brut de la scène était ce qui s’accordait prodigieusement à la symphonie.
 
 <p align="center">
-  <img src="assets/lemminkainen-mother.jpg" width="100%"/>
+  <img src="assets/symphonie-quatrième-sibelius/lemminkainen-mother.jpg" width="100%"/>
 </p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vianicsY87U?si=xawR9-sVmqvnS9Wf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
