@@ -70,7 +70,6 @@ She hath to wane amongst her curls of pain,
 
 Lie down and float, Lady of Shalott.
 
- <a href=”https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.poetryfoundation.org/poems/45360/the-lady-of-shalott-1842&ved=2ahUKEwiImISO5ZSHAxWUQ6QEHYVICbcQFnoECEAQAQ&usg=AOvVaw3F5cIZ5ZmHWMCDOziXVcG4”>Le poème de Tennyson</a> 
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/John_Atkinson_Grimshaw_-_%22The_Lady_of_Shalott%22_-_Google_Art_Project.jpg" width="100%"/>
