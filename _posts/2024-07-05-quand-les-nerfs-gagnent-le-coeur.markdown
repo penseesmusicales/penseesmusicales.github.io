@@ -4,7 +4,7 @@ title:  Quand les nerfs gagnent le cœur
 date:   2024-07-05 12:35:57 +0200
 categories: jekyll update
 ---
-Je propose de conclure le propos sur Busoni et la violence avec le partage d'un petit poème narratif, intitulé Quand les nerfs gagnent le cœur. Ce poème est voué à l'illustration de l'univers musical, et de la violence pure, des Prélude et étude en arpèges de Busoni
+Je propose de conclure le propos sur Busoni et la violence avec le partage d'un petit poème narratif, intitulé Quand les nerfs gagnent le cœur. Ce poème est voué à l'illustration de l'univers musical, et de la violence pure, des Prélude et étude en arpèges de Busoni.
 
 
 C’était avec Ambroisie, par une forêt brune de chaleur, que les ombres débutèrent de palpiter sur les nerfs. Un serrement qui s’emparait de toutes les boisures, de la rouge ambiance, jusqu’au bronchement mal assuré de mon amie.
