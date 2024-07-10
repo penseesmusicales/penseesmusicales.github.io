@@ -14,7 +14,7 @@ Horowitz joue, dans cette vidéo, une certaine sélection éparse de nocturnes, 
 C’est en apparence si simple, mais c’est en cela que c’est si pur. Peut-être est-ce de ce flux ininterrompu, et en quelque sorte parfait, de musique dont Busoni parlait lorsque, après avoir donné une critique assez acerbe de Chopin dans un article, il avait dit que l’essence véritable et géniale de ce compositeur se trouvait dans trois ou quatre nocturnes, soit un petit quart d’heure de musique seulement… un quart d’heure, toutefois, inoubliable.
 
 <p align="center">
-  <img src="/assets/nocturne.jpg" width="100%"/>
+  <img src="/assets/nocturne.jpg" width="30%"/>
 </p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/W03TPmYf3Dk?si=DmLI0HhqrJWnvMis" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
