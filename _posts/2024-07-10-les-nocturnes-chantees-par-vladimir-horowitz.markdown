@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Les nocturnes chantées par Vladimir Horowitz
-date:   2024-07-06 11:30:57 +0200
+date:   2024-07-10 11:30:57 +0200
 categories: jekyll update
 ---
 
