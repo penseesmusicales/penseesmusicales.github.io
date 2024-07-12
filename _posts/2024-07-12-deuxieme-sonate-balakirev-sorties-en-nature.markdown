@@ -1,0 +1,18 @@
+---
+layout: post
+title:  Seconde sonate de Balakirev, les sorties en nature
+date:   2024-07-12 15:05:57 +0200
+categories: jekyll update
+---
+
+Je me dois d'écrire quelque chose au sujet de ce par quoi mon imagination entière est entièrement aggripée, même si ce n'est, au début, que par une mélodie toute seule. La seconde sonate pour piano de Mily Balakirev a cette remarquable particularité de débuter avec une mélodie parmi les plus belles que l'on puisse imaginer. Non seulement belle mais aussi foisonnante, prodigieusement riche en ce qu'elle contient.
+
+J'ai compris que cette mélodie, et le premier mouvement "fugato" qui en est imprégné, étaient pour moi un début d'après-midi à la plage. Il s'agit d'une idée musicale pleine de chaleur, et en même temps très souple, sensuelle, qui accueille tous les jeux possibles de la lumière sur l'eau, de l'eau sur les corps, des rires dans l'air et des sourires à la lumière. Mais cette richesse des ébattements de la jeunesse par le sable et les flots, elle vient de l'innocence parfaite et spontanée de ces activités, car c'est dans ces souvenirs de bonheurs inconscients et énergiques que l'on retrouve la plus éclatante volupté, plus tard, lorsque l'on se demande où les germes d'amour les plus vrais avaient pu exister.
+
+A la lumière de cette révélation, j'ai su que le reste de la sonate devait poursuivre cette sortie en nature. Le deuxième mouvement, c'est donc la fin d'après-midi dans la forêt, non loin d'un lac et de quelque vieux château. C'est le cadre très russe de la sortie en nature du roman A la veille de Tourgeniev, avec ses exubérances, ses moments de poésie très simple et les émancipations de quelques caractères hauts en couleur dans l'assemblée.
+
+Le troisième mouvement plonge cette journée dans une vesprée silencieuse. Comme la vesprée torride dont parle Giono sur l'île de Circé, mais torride seulement par le silence insistant et immobile qui ne veut s'y rompre. C'est cependant dans ce silence, et ce début d'obscurité, que quelques muettes confidences s'opèrent, que des regards plus appuyés sont échangés à l'abri des autres et que des promesses s'effectuent à la pression des mains qui se tiennent. Encore un tableau très russe, qui veut unir dignement les âmes lorsqu'elles trouvent enfin le répit des pittoresques aventures du jour, et lorsque la nature elle-même leur offre la paix dont elles ont besoin pour s'entendre.
+
+Nous revenons ultimement sur la plage lors du dernier mouvement, dans une nuit éclairée de mille falots, parée de masques disculpateurs, de cœurs ardents et de reflets brûlants sur la mer et le sable. C'est parce que la confidence s'est faite silencieusement, sans le sceau de l'aveu pour positivement l'établir avec pleine certitude, que l'assemblée fatiguée de tantôt s'adonne à une fête aussi délibérée. C'est comme si, dans ces histoires russes, l'accord tacite était, d'entre tous, le plus retentissant, celui qui offrait le plus ample des sourires à ces êtres. Eux qui prétendent encore se déguiser fantasquement, s'amuser avec une certaine désinvolture, lorsque l'air a déjà depuis longtemps aspiré et répandu la vérité de leurs sentiments.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BHUdP6I6L5A?si=mSIYBZz3FT2yWpt1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
