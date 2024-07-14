@@ -1,0 +1,20 @@
+---
+layout: post
+title:  Turandot et son frontispice
+date:   2024-07-14 12:05:57 +0200
+categories: jekyll update
+---
+
+La pratique du frontispice est une chose que je trouve merveilleuse. Le fait de penser l'architecture d'un portail qui se dresse à l'entrée d'une œuvre, c'est déjà envisager l'univers propre de cette œuvre, ses enjeux les plus cruciaux, et avec quel genre de tension nous souhaitons que le spectateur la découvre. C'est aussi témoigner du respect à l'égard de l'œuvre, en lui consacrant un espace propre et élégant au sein duquel elle peut s'inscrire et vivre. Mais pour les figures emblématiques de l'histoire, qui ont la chance de se trouver sur ce frontispice, nous obtenons deux effets antithétiques : d'une part la figure est abstraite du rôle qu'elle joue dans l'œuvre et elle devient une sorte de symbole, tandis que d'autre part on dirait qu'elle s'empare d'une vie autonome hors du champ hermétique de l'œuvre dans laquelle nous la connaissions et la restreignions.
+
+Le cas dont je souhaite parler est magnifique, dans le sens où la composition à laquelle le frontispice est consacré est elle-même un panorama d'un univers artistique plus complet. Il s'agit de la Turandot Suite de Busoni, une suite orchestrale d'épisodes d'une histoire de Turandot (originellement dédiée à une production théâtrale) dont les motifs sont ensuite repris dans l'opéra Turandot de Busoni. Il s'agit donc de musique de scène, que l'on se délecte pourtant d'écouter seule tant le panorama est riche, vivant, coloré et dramatiquement contrasté.
+
+Il y a dans cette composition musicale une exploration quelque peu abstraite d'un monde artistique de Turandot, dans laquelle des épisodes se suivent comme des tableaux isolés, bien que très élégamment articulés. Où est Turandot ? Elle est dans toutes les subtilités de ce drame musical, mais jamais son visage ne se manifeste entièrement devant nos yeux. Et voilà qu'elle apparaît au milieu de ce frontispice, réalisé par Emil Orlík, dans une pièce à part, avec une posture leste, encadrée par des soupirants tantôt décapités, tantôt implorants. On dirait que tout y est, car l'un des dignitaires a l'inclination résignée et silencieuse, tandis que l'autre sollicite la pitié ; les têtes sans corps semblent méditer la leçon de cette femme aux épreuves fatales... Et elle, qu'elle paraît douce et sereine ! Et le décor si orné et ordonné autour d'elle. On entend surtout les soupirs, très discrets, et les fleurs. Des soupirs parce que l'histoire doit être ainsi, car la terreur bruyante est impossible devant une telle princesse. Et ces fleurs, qui semblent tomber comme motifs sur la robe de Turandot, ce sont les mêmes que l'on entend dans la section de la suite qui se passe dans la zénana de la princesse.
+
+Dans ce frontispice, on trouve le même enjeu que dans les autres, celui du conflit entre le symbole et l'incarnation indépendante. Mais on dirait que le symbole est, lui-même, tout le fond de l'histoire, et que l'incarnation en est l'instant le plus vrai. Ce n'est pas rien de donner à voir le visage de Turandot, celui pour lequel tant de prétendants ont expiré. Sur ce visage, aucune crispation qui dénote la torture intérieure de Turandot ; c'est une princesse qui joue son rêve, sa lubie qui est une idée d'artiste, et c'est selon son souhait qu'elle nous ouvre la porte de la suite musicale, avec ses tableaux variés et son intrigue enjouée.
+
+<p align="center">
+  <img src="/assets/turandot_suite_busoni.jpg" width="100%"/>
+</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4nW76U_gQS4?si=yitLygGN3ulFEV53" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
