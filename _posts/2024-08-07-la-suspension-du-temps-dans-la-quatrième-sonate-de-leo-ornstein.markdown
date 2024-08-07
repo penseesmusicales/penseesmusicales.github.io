@@ -1,0 +1,16 @@
+---
+layout: post
+title:  La fraîche suspension du temps dans la quatrième sonate de Leo Ornstein
+date:   2024-08-07 11:30:57 +0200
+categories: jekyll update
+---
+
+Il est très difficile de caractériser la musique de Leo Ornstein, compositeur qui a vécu dans les trois derniers siècles, tant les langages musicaux employés changent radicalement d'une pièce à l'autre. Je peux toutefois affirmer que, au milieu de compositions très modernes auxquelles je peine à me lier, il y a dans sa production quelques bijoux post-romantiques, qui relèvent d'une esthétique qui m'est très chère. Parmi ces bijoux, il y a ce bassin d'étoiles et de parfums qu'est la quatrième sonate pour piano de 1918. Beaucoup de choses pourraient être dites de la beauté de la sonate en entier, mais j'aimerais me concentrer ici sur le deuxième mouvement qui est d'une incommensurable richesse.
+
+Tout est dans l'élan de l'introduction de ce mouvement. C'est l'extrême ouverture de la mélodie et son libre enroulement qui lui confèrent toute sa fraîcheur. Au début, elle semble presque implorer, tout en exhibant ses merveilleuses fragrances : elle fait comme quelqu'un qui demande la permission tout en commençant déjà délicatement à se l'octroyer. Contrairement à beaucoup de mélodies lorsqu'elles s'introduisent, son assurance est positive, "semplice" comme le titre du mouvement, tout en étant parfaitement délicate. Elle est à la fois cérémonieuse et impudente ; c'est cette primesautière apparition qui joue à la fois sur les sens et sur l'imaginaire. On dirait que nous allons entendre des résonances lointaines de contes prestigieux, et en même temps l'imploration est si fervente que l'on comprend que tout doit relever de l'instant.
+
+Il y a des épaisseurs souriantes aussi : plus que les seules touches de parfums, qui délimitent le territoire de la danse par la pose des pas, il y a le frottement de nobles cordes qui sont une bienveillante invitation de l'âme. On sent quelque chose de poignant sans avoir besoin d'intrigue, par la seule présence partagée dans cet espace agrumé, où l'air est à la fois dense et frais, la pierre couleur d'opale, et les étoffes rouges et bleues dans les étoiles de nuit. Même lorsque, au milieu du mouvement, l'orage s'estompe, c'est sur un voluptueux sourire qu'il retombe.
+
+L'imploration se fait si directe et si sereine ! C'est la pure liberté du mouvement. Et, tout autour de nous, on nous montre à quel point les étoiles sont visibles, et palpables. Il n'est besoin que du déhanchement des sons et de quelques jets de parfum répétés pour rendre ces cinq minutes presque éternelles, précieuses comme le creux nacré de certaines coquilles. Elles s'ouvrent avec incroyable aisance sur un monde de richesses inépuisables.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iZWZ8XLdr3A?si=K-Ml7hEO-Ebt__d3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
