@@ -18,7 +18,7 @@ C'est à l'instar de cette gravure de Gustave Doré sur la fin du Purgatorio, o�
 Je partage ici, dans l'ordre, l'authentique Fantasia Contrappuntistica, l'edizione minore, et le seul choral introductif de cette edizione minore. Il est bien possible que le choral traditionnel, avec les intenses réverbérations qui occupent l'espace et l'urgence avec laquelle il se déploie, convienne davantage aux ambitions monumentales du reste de la pièce (qui est, il faut le rappeler, une recomposition et une complétion du Contrapunctus 14 qui vient à la fin de L'art de la fugue de Bach). En revanche, cette introduction alternative, prise toute seule, produit sur moi l'effet infiniment touchant d'une lettre d'amour délibérée. En cela, elle retient particulièrement mon affection et j'écris ici en retour à Busoni.
 
 <p align="center">
-  <img src="/assets/busoni-cathdral-sketch.JPG" width="100%"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Fantasia_Contrappuntistica_Plan.jpg" width="100%"/>
 </p>
 
 <p align="center">
