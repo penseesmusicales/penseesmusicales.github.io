@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Le recueillement de Jean Cras
-date:   2024-08-18 12:00:57 +0200
+date:   2024-08-27 12:00:57 +0200
 categories: jekyll update
 ---
 
