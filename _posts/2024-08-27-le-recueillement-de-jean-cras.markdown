@@ -1,0 +1,24 @@
+---
+layout: post
+title:  Le recueillement de Jean Cras
+date:   2024-08-18 12:00:57 +0200
+categories: jekyll update
+---
+
+J'espère avoir l'occasion, sur ce blog, de rendre suffisamment hommage aux chaînes YouTube qui m'ont permis tant de découvertes musicales. Aujourd'hui, c'est au tour de la chaîne "Classical Gems", qui publie quotidiennement des enregistrements d'une extrême variété. Il est presque désarmant d'en voir autant passer, et de s'apercevoir de l'immense quantité qui était passée avant que je ne découvre la chaîne. Il n'est dès lors pas toujours évident de se convaincre de cliquer sur une œuvre d'une demi-heure de "Jean Cras", lorsque l'on n'a aucune idée de qui ce Jean Cras peut bien être. J'avoue qu'avec ces compositeurs français du début du vingtième siècle, j'ai toujours peur de tomber sur un impressionniste peu inspiré... Il n'en est rien, toutefois, avec les Poèmes intimes de Jean Cras.
+
+C'est une collection de cinq poèmes musicaux pour piano, tous d'une exquise beauté, pleins de finesses et de couleurs, et porteurs d'atmosphères totales. Je veux parler ici du quatrième poème, "Recueillement", vraisemblablement inspiré par le poème éponyme de Baudelaire.
+
+Mais seul le premier vers du poème est cité en épigraphe de la partition : "Sois sage, ô ma Douleur, et tiens-toi plus tranquille". Je n'aime vraiment pas les apostrophes et les essentialisations en poésie (je n'aime d'ailleurs pas la poésie de Baudelaire en général), mais, par-delà cette considération, l'idée est grande. Le développement dans le poème écrit ne me convient pas du tout, tandis celui du poème musical de Cras me semble refléter toute la richesse contenue dans ce premier vers. Bien sûr, il y a également la décision de la marche, importante dans la musique, qui peut faire allusion au dernier vers du poème, cité en fin de partition, mais je crois que cette décision peut aussi dénoter à la fois la décision dans la résolution, et le combat qui sort de cette résolution.
+
+Mon point de vue sur l'essence de ce premier vers, telle qu'elle est appréhendée par la musique, est suggéré dans ma réécriture du poème à partir d'une version légèrement altérée du premier vers. L'art n'en est pas formidable, mais c'est la sincère transcription de ce que ces oeuvres m'inspirent : on ne demande pas à la douleur d'être sage et plus tranquille pour qu'elle nous épargne quelque peu, mais pour suggérer qu'elle est dédaignée. Plus encore, on cherche à affirmer qu'elle n'existe pas véritablement. La voix du poème de Cras est lucide ; chacune de ses légères hésitations trouve une résolution dans le retour de la marche, du combat. Le seul tourment est celui de comprendre si la douleur est légitime ou non. Et l'on soupçonne qu'elle ne l'est pas, et qu'elle se doit donc d'être évincée. Pourtant, il est un poids, ou seulement même un nuage, sur toutes les pensées, sur la sérénité de ce recueillement ; de sorte que la force devient nécessaire pour surmonter l'affront que nous fait cette douleur, l'affront de nous croire suffisamment pusillanimes pour la tolérer, lorsque toutes les fibres de notre être enragent de la sentir ne serait-ce qu'un peu s'installer.
+
+Dans de telles situations musicales, j'ai remarqué, et senti avec une puissance géniale, que c'était l'obtusité du caractère qui se révélait, pour livrer une réaction de mépris très concentré à l'encontre de la douleur. C'est un sentiment qui me smeble infiniment plus vrai que la complaisance affligée. Plus précisément, et la nuance me semble très importante, ce n'est pas exactement contre la manifestation de la douleur elle-même que ce mépris acharné et unilatéral s'exerce, mais contre la propension de l'être à l'assimiler réellement comme une douleur. J'aime la réaction vaillante, car c'est celle qui s'en remet à un dessein plus grand et qui ne voit pas de raison à ce que sa souffrance soit légitime à éprouver pleinement, passivement, et avec un indu désespoir.
+
+<p align="center">
+  <img src="/assets/recueillement.jpg" width="100%"/>
+</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BJ8Nkez7cNg?si=KDk8uAd7MJNSBgNx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/p6xM12tZLyw?si=Xh5phJQL2ocHDo7I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
