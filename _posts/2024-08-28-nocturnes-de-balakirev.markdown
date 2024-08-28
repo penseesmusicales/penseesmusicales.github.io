@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Deuxième Nocturne de Balakirev
-date:   2024-08-28 12:15:57 +0200
+date:   2024-08-28 12:14:57 +0200
 categories: jekyll update
 ---
 
