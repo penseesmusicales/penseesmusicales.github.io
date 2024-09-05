@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  La démonstration de Rachmaninoff dans la Grande sonate funèbre de Chopin
-date:   2024-08-28 15:30:57 +0200
+date:   2024-09-05 15:30:57 +0200
 categories: jekyll update
 ---
 
