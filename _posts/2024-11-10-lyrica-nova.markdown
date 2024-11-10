@@ -1,0 +1,22 @@
+---
+layout: post
+title:  Lyrica Nova
+date:   2024-11-10 13:30:57 +0200
+categories: jekyll update
+---
+
+Il me chagrine, au découvrir d'une merveille musicale, de ne la voir commentée qu'en termes de comparaison, le plus souvent technique, avec d'autres compositeurs plus connus. La comparaison la plus courante, à mon sens, étant qu'un certain compositeur "fait du Chopin"... alors que sa musique ne dit rien de commun avec ce que dit celle de Chopin. Il ne m'est arrivé qu'une fois d'écouter un autre compositeur, probablement Louis-Moreau Gottschalck, et d'avoir vraiment l'impression d'écouter Chopin, ou une imitation de Chopin. C'est la spécificité de l'esprit qui importe, à laquelle la comparaison technique peut, tristement, rendre aveugle.
+
+Cela étant dit, lorsque j'ai commencé à écouter la musique de Bortkiewicz, et en particulier la première section de Lyrica Nova, je me suis dit "Mais ce compositeur croyait-il vraiment que nous ne remarquerions pas ses citations exactes de Scriabin ?". C'était très étrange, j'avais seulement l'impression d'entendre une reprise du prélude Opus 16 numéro 1...
+
+Puis j'ai décidé de lui faire confiance, d'écouter vraiment ce qu'il avait à dire de la sorte. J'ai réalisé qu'il faisait en vérité ce que j'ai toujours rêvé de faire avec la musique que j'aime : la chanter avec tous les accents et toutes les inflexions possibles, pour en tirer chaque once de beauté potentielle qui attend dans l'œuvre originale. La musique de Bortkiewicz est faite de son propre langage, qui est une manière d'épouser ce qu'il aime profusément, dans le monde et dans la musique d'autrui. C'est un espace de mise en tension des beautés, prêt à assumer tous les débordements que peuvent engendrer ces réactions inopinées.
+
+Est-ce toutefois un compositeur sérieux ? Ces synthèses extrêmes qui suscitent des déferlantes peu retenues en apparence par la main créatrice du compositeur, ne témoignent-elles pas d'une absence de méthode et de sens artistique ? Je me suis sincèrement posé la question, lorsque le sens de certaines de ses œuvres m'a échappé, ou continue même souvent de m'échapper, et qu'il m'a semblé y trouver de l'arbitraire. Mais j'ai tendance à croire maintenant que cette impression peut être corrigée. Il ne s'agit pas que de pièces catalystes de sensationnels effets émotionnels, au hasard. Pour Bortkiewicz, il s'agit de prendre le rythme des vagues sentimentales, de trouver le juste remplissage ornemental et émotionnel dans l'excès d'épanchement. Lorsqu'une avalanche passe dans sa musique, il faut prêter attention à la forme et à la couleur de la neige.
+
+Lorsque l'on écoute Lyrica Nova, mais aussi l'Elégie ou la Ballade, on réalise que ce sont des espaces sonores qui se plaisent à montrer l'arrondi de leurs parois. Si l'effet n'est pas aussi convaincant en chacune de ses œuvres, on découvre du moins dans celles-ci, et dans d'autres encore, l'esthétique du plein investissement de l'espace, de la quasi saturation qui épouse délicatement, mais dangereusement, les formes des déversements ininterrompus de l'âme. Nous ne serions pas loin d'un détestable lyrisme aveugle s'il n'était pas énergiquement justifié en permanence, de façon si touchante que l'on comprend enfin, à n'en pas douter, la manifestation évidente d'un langage propre à Bortkiewicz. Le lyrisme nouveau.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vdd5xVHyY_0?si=sQwfK7lgnZj3uvlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6XzW_upL26o?si=BB-mJ5rHsKtNgQzT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/edNRFEu-6GI?si=rUNkgFSuJmUjQtfY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
