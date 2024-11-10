@@ -5,7 +5,7 @@ date:   2024-07-18 15:30:57 +0200
 categories: jekyll update
 ---
 
-Je peinerais à décrire le lien de tendresse infinie qui me lie aux vingt-quatre préludes de Busoni, composés lorsque celui-ci avait treize et quatorze ans. Nous connaissons beaucoup de jeunes prodiges de la musique, mais en quoi peuvent-ils m'intéresser tant qu'il n'y a pas de maturité des sentiments en eux ? Je précise cependant qu'il s'agit de maturité, et non pas d'expérience. Aussi, cette maturité n'exclue pas la naïveté : il peut être extrêmement mature d'accepter la naïveté de sa propre personne et de ne pas y mettre la moindre affectation destinée à paraître plus sophistiqué.
+Je peinerais à décrire le lien de tendresse infinie qui me lie aux vingt-quatre préludes de Busoni, composés lorsque celui-ci avait treize et quatorze ans. Nous connaissons beaucoup de jeunes prodiges de la musique, mais en quoi peuvent-ils me plaire tant qu'il n'y a pas de maturité des sentiments en eux ? Je précise cependant qu'il s'agit de maturité, et non pas d'expérience. Aussi, cette maturité n'exclue pas la naïveté : il peut être extrêmement mature d'accepter la naïveté de sa propre personne et de ne pas y mettre la moindre affectation destinée à paraître plus sophistiqué.
 
 Comment ce jeune homme a-t-il pu non seulement s'exprimer avec autant de maturité, en plaçant dans ses préludes des vérités du cœur auxquelles très peu d'adultes auraient pu penser, et qu'aucun probablement n'aurait pu mettre en musique d'une manière aussi directe, mais encore donner tant de tableaux qui évoquent, dans ses détails les plus infimes et charmants, l'Italie rurale de l'époque et du passé ? Voilà les vrais prodiges, ceux dont l'âme s'épanche sur tout un univers, et qui retient à son tour tout ce qu'elle y sent.
 
