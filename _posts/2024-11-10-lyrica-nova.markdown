@@ -5,7 +5,7 @@ date:   2024-11-10 13:30:57 +0200
 categories: jekyll update
 ---
 
-Il me chagrine, au découvrir d'une merveille musicale, de ne la voir commentée qu'en termes de comparaison, le plus souvent technique, avec d'autres compositeurs plus connus. La comparaison la plus courante, à mon sens, étant qu'un certain compositeur "fait du Chopin"... alors que sa musique ne dit rien de commun avec ce que dit celle de Chopin. Il ne m'est arrivé qu'une fois d'écouter un autre compositeur, probablement Louis-Moreau Gottschalck, et d'avoir vraiment l'impression d'écouter Chopin, ou une imitation de Chopin. C'est la spécificité de l'esprit qui importe, à laquelle la comparaison technique peut, tristement, rendre aveugle.
+Il me chagrine, au découvrir d'une merveille musicale, de ne la voir commentée qu'en termes de comparaison, le plus souvent technique, avec d'autres compositeurs plus connus. La comparaison la plus courante, à mon sens, étant de dire d'un certain compositeur que "c'est juste du Chopin", ou "du Bach"... alors que sa musique ne dit rien de commun avec ce que dit celle de Chopin ou celle de Bach. Il ne m'est arrivé qu'une fois d'écouter un autre compositeur, probablement Louis-Moreau Gottschalck, et d'avoir vraiment l'impression d'écouter Chopin, ou une imitation de Chopin. C'est la spécificité de l'esprit musical qui importe, à laquelle la comparaison technique peut, hélas, rendre inattentif.
 
 Cela étant dit, lorsque j'ai commencé à écouter la musique de Bortkiewicz, et en particulier la première section de Lyrica Nova, je me suis dit "Mais ce compositeur croyait-il vraiment que nous ne remarquerions pas ses citations exactes de Scriabin ?". C'était très étrange, j'avais seulement l'impression d'entendre une reprise du prélude Opus 16 numéro 1...
 
