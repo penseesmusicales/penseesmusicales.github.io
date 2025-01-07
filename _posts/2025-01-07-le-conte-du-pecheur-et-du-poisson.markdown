@@ -5,7 +5,7 @@ date:   2025-01-07 13:00:57 +0200
 categories: jekyll update
 ---
 
-Comme souvent, j'ai découvert le conte du Pêcheur et du Poisson, de mon écrivain préféré Pouchkine, seulement après avoir écouté l'oeuvre musicale éponyme de Nikolai Tcherepnin. Le principe de son illustration musicale du conte est de fournir six pièces d'atmosphère à écouter entre diverses sections de la lecture.
+Comme souvent, j'ai découvert le conte du Pêcheur et du Poisson, de mon écrivain préféré Pouchkine, seulement après avoir écouté l'œuvre musicale éponyme de Nikolai Tcherepnin. Le principe de son illustration musicale du conte est de fournir six pièces d'atmosphère à écouter entre diverses sections de la lecture.
 
 Je ne sais si c'est la musique qui m'y a rendu sensible, mais j'ai trouvé, à la lecture du texte, un univers capable d'agripper toute mon imagination et mes émotions. L'histoire, que je ne divulgue guère, est toute simple ; mais par ses douces répétitions, dont on sent qu'elles pourraient faillir, par l'antagonisme lâche entre une figure hautaine et égoïste, et une autre bonne et résignée qui se rend toujours auprès du poisson avec la même humilité, et par ce cadre de tous les possibles au bord de mer, cette histoire émeut, profondément. Je ne l'ai lue qu'en traduction anglaise, merveilleusement illustrée, mais j'espère un jour avoir progressé suffisamment en russe pour la lire dans la langue de Pouchkine. Cela étant, j'ai senti, même en traduction, cette extrême sincérité dans l'écriture de Pouchkine, que je vois dans tout ce qu'il a écrit. De la simplicité et de la justesse : il ne faut rien de plus pour que l'humain et le merveilleux puisse coexister de la plus touchante des manières.
 
