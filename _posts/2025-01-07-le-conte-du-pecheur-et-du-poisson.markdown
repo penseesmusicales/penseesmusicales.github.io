@@ -1,0 +1,14 @@
+---
+layout: post
+title:  Le conte du Pêcheur et du Poisson
+date:   2025-01-07 13:00:57 +0200
+categories: jekyll update
+---
+
+Comme souvent, j'ai découvert le conte du Pêcheur et du Poisson, de mon écrivain préféré Pouchkine, seulement après avoir écouté l'oeuvre musicale éponyme de Nikolai Tcherepnin. Le principe de son illustration musicale du conte est de fournir six pièces d'atmosphère à écouter entre diverses sections de la lecture.
+
+Je ne sais si c'est la musique qui m'y a rendu sensible, mais j'ai trouvé, à la lecture du texte, un univers capable d'agripper toute mon imagination et mes émotions. L'histoire, que je ne divulgue guère, est toute simple ; mais par ses douces répétitions, dont on sent qu'elles pourraient faillir, par l'antagonisme lâche entre une figure hautaine et égoïste, et une autre bonne et résignée qui se rend toujours auprès du poisson avec la même humilité, et par ce cadre de tous les possibles au bord de mer, cette histoire émeut, profondément. Je ne l'ai lue qu'en traduction anglaise, merveilleusement illustrée, mais j'espère un jour avoir progressé suffisamment en russe pour la lire dans la langue de Pouchkine. Cela étant, j'ai senti, même en traduction, cette extrême sincérité dans l'écriture de Pouchkine, que je vois dans tout ce qu'il a écrit. De la simplicité et de la justesse : il ne faut rien de plus pour que l'humain et le merveilleux puisse coexister de la plus touchante des manières.
+
+C'est ce dernier aspect qui, je crois, est parfaitement révélé par la musique. Les pièces soulignent justement l'instabilité critique de cet univers, sans pour autant en faire un drame. C'est très important, car il ne se passe pas grand chose dans l'histoire, et elle ne progresse que par élans répétitifs ; on pourrait même la résumer à une séquence de tableaux. Mais il faut que ces tableaux soient profonds, que l'on y sente les dissonances, les appréhensions, la magie, et la sanction qui peut tomber à tout instant. Ce que j'aime dans l'approche de Tcherepnin, c'est la suggestion de toutes les nuances psychologiques et métaphysiques dans des instants de battements, ceux dont le conte ne parle pas, puisque le conte s'attache à la narration. Bien sûr, il y a des éléments de l'action dans les morceaux, mais plutôt que d'être liés narrativement, ils semblent généralement baigner dans une atmosphère très délicate, comme des potentiels qui n'attendent que d'être activés par la force des choses.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ANxhdtWi3jw?si=AujG-rjVhT3Xftz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
