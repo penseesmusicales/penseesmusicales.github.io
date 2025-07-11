@@ -1,0 +1,14 @@
+---
+layout: post
+title:  La Romance du jeune Tsigane
+date:   2025-07-12 00:30:57 +0200
+categories: jekyll update
+---
+
+C’est sous l’effet de l’émotion que j’écris le présent article. L’opéra de jeunesse Aleko, de Rachmaninoff, figure depuis peut-être deux ans parmi mes favoris. Je suis tombé par hasard sur un enregistrement d’une production de 1974, à Amsterdam, dans laquelle le seul chanteur slave identifié était celui qui interprétait le personnage du jeune Tsigane. Je dois avouer que je n’ai même pas écouté l’enregistrement global jusqu’à présent, mais l’origine des chanteurs ne présume absolument en rien, à mes yeux, de la qualité de leur performance, même si l’opéra est en russe. Néanmoins, puisque la Romance du jeune Tsigane est mon aria favorite dans cet opéra, cette singularité d’origines m’a simplement amené à aller écouter l’interprétation que ce ténor Nikolai Ogrenich, ukrainien, dont je n’ai trouvé que de très rares enregistrements depuis, pouvait en faire. C’est à 42:25 dans la vidéo.
+
+Je ne m’attendais à rien de pareil à ce que j’ai entendu. J’ai écouté beaucoup de belles interprétations de cette romance, et je m’entraîne moi-même à la chanter chez mon ami pianiste François (avec ma voix de basse toutefois, ce qui ne donne rien d’aussi beau que ce que font les ténors), mais celle-ci était comme nulle autre. Plutôt que d’avoir un jeune Tsigane pointant sereinement, presque frivolement parfois, la lune du doigt, pour parler d’un amour léger et vagabond, Ogrenich lance dès le début une petite fusée embrasée vers la lune. Toute la romance se déroule avec la palpitante incertitude de ne savoir point si ce jet dramatique a atteint sa cible idyllique. Plutôt que de s’exhiber tranquillement et de cueillir facilement son nouvel amour avec Zemfira, le jeune Tsigane est loin, caché derrière quelque tente, et il n’est que la propulsion de sa voix pour le faire voir.
+
+Par moments, le jet initial est si ambitieux que la voix nous paraît pantelante, impuissante face à la difficulté de ce qu’elle accomplit… tout en surmontant sans cesse la difficulté, même avec les brisures, les essoufflements, les aigus prodigieux dans lesquels l’effort se complète et se repose en même temps… C’est une minute et demie de musique qui passe comme une étoile filante, un élan fou et passionné, aussi désespéré qu’il est parfait. Il s’achève sur un scintillement absolu, une supernova dans laquelle l’étoile incontrôlable finit de se consumer. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LVD9LLBG6bI?si=iBEAbMB9idAk9IVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
