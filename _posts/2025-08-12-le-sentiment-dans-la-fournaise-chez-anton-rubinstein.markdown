@@ -1,0 +1,20 @@
+---
+layout: post
+title:  Le sentiment dans la fournaise chez Anton Rubinstein
+date:   2025-08-12 11:30:57 +0200
+categories: jekyll update
+---
+
+J'ai déjà parlé du motif de la violence dans l'œuvre musicale de Busoni, auquel j'ai dédié trois articles parmi les premiers de ce blog. C'est une qualité quelque peu analogue que l'on retrouve chez Anton Rubinstein, au regard de l'intensité déployée dans l'expression. Néanmoins, Rubinstein ne cherche pas le heurt, le point limite ou la discontinuité, comme Busoni peut le faire. Il me semble que l'ébullition intense que l'on peut trouver parfois dans sa musique relève plutôt d'un tempérament, voire d'un désir de donner, à l'instar de la phrase de Sofronitsky concernant l'interprétation musicale, "plus que ce qu'il possède". Dans une quête d'idéal, propre à cet artiste, il est très raisonnable de sa part de supposer que l'idéal ne saurait être mieux incarné que dans une matière qui contient le maximum de vigueur.
+
+Je veux tout particulièrement parler de la quatrième sonate pour piano. C'est une œuvre incandescente, qui s'affiche comme telle dès le départ, mais qui pourtant ne se répand jamais en extravagances futiles et incontrôlées. Comme dans le quatrième concerto pour piano, ou les six préludes et fugues, on sent immédiatement la poigne du maître qui nous agrippe et nous propulse dans un voyage musical effréné. La différence avec les deux autres pièces mentionnées, c'est que Rubinstein a même, dans cette sonate, le zèle de placer immédiatement sa musique dans la fournaise. Le crépitement est palpitant, le son est brûlant, d'une telle différence de température avec tout ce qui nous est donné de connaître qu'il en paraît également glacé (ainsi que le disait Heinrich Neuhaus des performances de Busoni : "On ne savait si c'était le feu ou la glace"). Tout en allant à une allure bouleversante, la musique prend le temps de s'arrêter à chaque coup de fracas, comme pour nous confronter un instant au caractère vertigineux de ce qui se passe dans cette immense fournaise.
+
+Notre regard aussi est arrêté, fasciné par ce phénomène de la nature. Nous sommes comme Tolstoï sur le tableau de Leonid Pasternak, lorsqu'il assiste à un concert de Rubinstein. Le reste du monde est rouge, brun, de vagues textures avec quelques lumières indéterminées, des figures flottantes... Et dans l'instant, il n'y a que Rubinstein et nous ; il se passe quelque chose d'important et d'irréel. C'est à juste titre qu'un détail du tableau figure sur la couverture de l'album de Leslie Howard, avec les teintes du feu judicieusement appuyées.
+
+Cette intensité a une incidence remarquable sur le caractère du mouvement lent de la sonate, le troisième en l'occurrence. Rubinstein n'a guère besoin de murmurer pour susciter une suspension mélodieuse. Puisque le repos n'est que notion relative par rapport à l'intensité de l'activité, le ton de ce mouvement semble être celui d'une parole avec un volume normal. De là procède un lyrisme naturel, sans la moindre affectation ni une seule contorsion. Tout passe avec la simplicité du langage parlé, ce langage étant celui d'un poète parfait. Là où, dans le deuxième mouvement du quatrième concerto, nous sommes attendris par l'ours qui essaie de murmurer, de bredouiller, quelque délicat lyrisme, nous sommes ici, dans la quatrième sonate, conquis par une conversation directe et sincère avec l'ours qui ne cache ni sa nature, ni ses sentiments. Il y a là dix minutes de pure musique comme on en a toujours rêvé.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=pM0jNY5gGZbHZstt&amp;list=PLlT0jIZioRl3Rp7ixwLO-i7TUzNusFRsO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<p align="center">
+  <img src="/assets/tolstoy-at-rubinstein-concert.jpg" width="100%"/>
+</p>
