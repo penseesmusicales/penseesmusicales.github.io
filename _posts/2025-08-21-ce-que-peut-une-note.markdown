@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Ce que peut une note
-date:   2025-08-21 16:30:57 +0200
+date:   2025-08-21 15:30:57 +0200
 categories: jekyll update
 ---
 
