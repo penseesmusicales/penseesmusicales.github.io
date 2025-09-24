@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Le Chœur des jeunes Polovtsiennes
-date:   2025-09-10 18:00:57 +0200
+date:   2025-09-24 18:00:57 +0200
 categories: jekyll update
 ---
 
