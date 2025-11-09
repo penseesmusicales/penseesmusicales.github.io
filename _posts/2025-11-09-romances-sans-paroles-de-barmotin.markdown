@@ -1,0 +1,14 @@
+---
+layout: post
+title:  Romances sans paroles de Barmotin
+date:   2025-11-09 21:30:57 +0200
+categories: jekyll update
+---
+
+Récente est ma découverte du compositeur russe Semyon Barmotin. Tout ce que j’ai écouté me laisse percevoir une véritable âme de poète, soucieuse des plus infimes nuances, d’atmosphères subtiles et contemplatives. Les pièces que je trouve les plus touchantes, à ce jour, sont les trois Romances sans paroles. Ces œuvres constituent une frise concentrée, ce que j’appelle un couloir musical : pas une fois l’avancée n’est arrêtée, et jamais l’ambiance n’est détournée de son originelle nature. 
+
+La première est un enchaînement de petits élans interrompus, de bouts de phrase corrigés, puis graduellement liés. L’aboutissement de toute cette nervosité, c’est un simple passage, une promenade étrangère au monde et un peu frêle. Ce lissage ressemble à la finalité espérée des tâtonnements incertains, mais, lorsque l’on y est, rien n’est plus réel. C’est la tranquillité sans sérénité ni familiarité. Alors le tâtonnement reprend, presque en souvenir du précédent. Puisque si l’issue escomptée ne promet rien, quelle direction retenir parmi la myriade de sentiers indistincts, trop similaires les uns aux autres pour qu’un seul d’entre eux soit un idéal ?
+
+Une esquisse de réponse à cette question est proposée par la deuxième romance. Plutôt que de susciter activement des élans, on y perçoit la cultivation et l’approfondissement d’un état sensible de l’intérieur.Toute la pièce repose sur un motif rythmiquement tombant : on approche d’un précipice, on tombe et on reprend appui. Toute chute apporte un degré d’acuité supplémentaire dans la vision de nos propres affres. Mais pendant que nous sommes occupés à tomber, chaque attaque du motif suscite une nouvelle teinte dans le ciel crépusculaire. Il reste de la place hors de soi, pour que l’enveloppe corporelle continue à marcher par exemple. La promenade abstraite se poursuit dans ce deuxième morceau, mais celle-ci s’achemine vers un point de fuite qui nous fait disparaître. Ainsi que l’intériorité s’explore par poussées successives, la chair s’estompe dans l’oubli d’elle-même.
+
+La troisième romance est presque un instant de consolation. C’est celle qui semble être la plus libre de mouvement, et c’est sur elle que s’épanchent, avec la légèreté du vent, les relents des peines passées. Quelle inclinaison de mains réconfortantes, cependant, pour accueillir les bras épuisés par les plus fines préoccupations ? Tout au long s’accordent une leste expiration des tourments et la recherche de ce juste réceptacle. On sent qu’à chaque fois, en de subtils instants remplis d’attentes, la frustration frise la tendresse, sans jamais toutefois l’atteindre. Ultimement, c’est vers le plus universel des secours que la marche consolatrice s’oriente. Voilà le seul instant, le dernier, où le couloir musical a été quitté, où l’âme s’est libérée avec espoir vers la plus blanche des lumières.
