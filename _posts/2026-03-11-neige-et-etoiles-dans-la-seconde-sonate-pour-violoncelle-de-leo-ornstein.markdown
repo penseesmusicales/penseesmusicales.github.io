@@ -1,0 +1,14 @@
+---
+layout: post
+title:  Neige et étoiles dans la seconde sonate pour violoncelle de Leo Ornstein
+date:   2026-03-11 13:30:57 +0200
+categories: jekyll update
+---
+
+La seconde sonate pour violoncelle de Leo Ornstein a été désignée par sa femme comme “une longue et glorieuse ligne mélodique”, ce qui correspond plus ou moins à mon sentiment la première fois que je l’ai écoutée. Je ne savais pas bien ce que je venais d’entendre, mais j’avais réalisé que, pour la première fois certainement, je venais de découvrir une œuvre qui formait une unique et dense masse musicale, déployée de manière ininterrompue. J’ai beaucoup d’attrait pour cette idée, qui revient à n’introduire aucune matière neutre ou inexpressive dans une œuvre artistique. Chacune des composantes de cette pièce semble participer à l’épanouissement de cette unique ligne mélodique dont le flux ne se perd jamais.
+
+Cette pièce s’apparente dans mon esprit à la course d’un traîneau dans la neige, la nuit, avec un perpétuel concert d’illuminations entre les étoiles, les clochettes du traîneau et toute étincelle de réflexion dans la neige. Le paradigme constant est celui de la course du traîneau, et le travail de la beauté se fait essentiellement par les modulations de lumière et les diverses focalisations dans ce riche et scintillant décor auxquelles nous sommes conviés. Le refrain qui lance cette composition est comme un début en in medias res, nous découvrons le décor alors qu’il court déjà depuis le début immémoriel de cette nuit. La palpitation qui nous est induite, avec un sentiment poignant et un émerveillement des yeux, il s’agit de la nôtre, du fait d’avoir été placés en plein dans cette aventure de nuit. Cette mélodie du violoncelle est là, en quelque sorte, pour que nous nous autorisions à tomber amoureux de l’espace auquel le piano nous invite.
+
+Lorsque le refrain revient néanmoins, il ne s’agit plus que d’un émerveillement des sens. L’image est ravivée dans toute sa magnificence mais, en quelques instants très subtils, la mélodie a l’air de se suspendre pour nous laisser entrevoir une contrée noire et métaphysique associée à cette scène, qui émane peut-être du cœur de ceux qui résident dans le traîneau (possiblement le nôtre alors, si nous avons réussi à tout envisager de l’intérieur) ou du fond noir de la nuit elle-même. Il y a là quelques fragments d’une seconde ou deux qui élèvent cette scène à un plus haut degré d’existence. C’est comme si, sachant que le flux ne pouvait s’interrompre, les instruments s’étaient accordés pour dilater très succinctement le temps, afin d’y introduire l’esprit.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CGX4NaNS14s?si=YyFeMUTshuZlu4bj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
