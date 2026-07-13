@@ -1,0 +1,16 @@
+---
+layout: post
+title:  La tristesse lumineuse
+date:   2026-07-13 14:00:57 +0200
+categories: jekyll update
+---
+
+Dans son poème "Sur les montagnes de Géorgie", Pouchkine parle d'une tristesse lumineuse. Ce qu'il n'évoque pas, explicitement du moins, c'est que la tristesse pût être une forme de désintégration du monde, et que la lumière pût être un substrat résistant à l'anéantissement, d'une constitution très vite dépouillée de toute chair. Cet estompement est pourtant suggéré par la montée du brouillard, du bruit de la montagne, et même par la légèreté que le poète éprouve dans son dépit. Tout concourt à éteindre la matière humaine dans le poème, qui disparaît derrière un écran grandissant de nature et de sentiment. Lorsqu’enfin Pouchkine, à bout de forces et écrasé par ce monde noir et superbe, exprime la palpitation ardente qui revient en lui, pour celle qu’il aime exclusivement, l’exclamation est d’autant plus touchante qu’elle semble gronder d’entre les ténèbres. C'est le dernier effort d’une faible lumière au milieu de l’obscurité, répondant à la nécessité de ce qui demeure en elle, "car ne pas aimer lui est impossible".
+
+La mélodie composée par Rimsky-Korsakov sur ce poème donne naturellement le rôle de la lutte humaine à la voix, celui de l’annihilation par le paysage au piano. Peut-être est-ce la qualité de l’enregistrement qui donne cette impression, mais la voix de Chaliapin semble absolument spectrale, comme si elle surgissait graduellement, encore ensevelie sous une couverture de ténèbres. C'est exactement comme le suggère la couverture de l’album dans la vidéo, qui est un portrait de Chaliapin lui-même. On ne le voit certes pas à la montagne, mais il est assis et penché, ainsi qu'il l'est souvent, dans un costume blanc dont l'éclat en empâtement de peinture le fait paraître comme un spectre dans le décor un peu obscurci. Ce tableau montre Chaliapin à l'image de sa voix dans la mélodie en question : tout peut se suspendre, ralentir horriblement, et même disparaître, tant que Chaliapin chante, une lumière blafarde, malade mais intense persiste, avec la vérité du cœur que relate Pouchkine dans son poème. Le dépit dont il est question est mystérieux. Est-ce la séparation ? Est-ce le chagrin ? Chaliapin se l’approprie avec une expressivité blanche elle aussi. Il place très justement la faiblesse du poète ou l’ardeur de l’adresse à la femme, dans sa voix, mais ces sentiments deviennent eux-mêmes comme les éléments naturels. Ce n'est qu’un faisceau de lumière blanche, dont le clignotement défaillant nous fait méditer, et dont l’éclair soudain frappe les sommets de notre âme.
+
+<p align="center">
+  <img src="/assets/feodor-chaliapin.png" width="100%"/>
+</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nb3DXpsk9eA?si=Bvc26X1yt4LaMNYk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
