@@ -1,0 +1,14 @@
+---
+layout: post
+title:  Les bulles d'eau dans Pohádka de Janáček
+date:   2026-08-03 12:00:57 +0200
+categories: jekyll update
+---
+
+Mes deux plus récentes découvertes d'œuvres composées par Janáček sont toutes les deux pour piano et un instrument à corde. Il s'agit de la sonate pour violon et de Pohádka, pour piano et violoncelle, cette dernière étant apparemment inspirée d'un conte russe. Dans l'une et l'autre de ces pièces, Janáček suscite des superpositions si délicates des deux instruments, en donnant pourtant aux deux timbres de se toucher à peine, de glisser l'un sur l'autre, que j'en ai le sentiment de voir apparaître un film très fragile et vitreux, une texture qui tient sur peu de choses et à travers laquelle on voit le monde avec de nouvelles couleurs et lumières. C'est dans Pohádka, en particulier, que cette impression est la plus saisissante, en raison de la nature discrète et suspendue de l'œuvre. C'est sur celle-ci que je souhaite concentrer mon attention.
+
+En écoutant Pohádka, on peut se figurer une traversée subtile dans un monde féérique, à l'image du conte dont la pièce est inspirée, mais je suis plus enclin à apercevoir un rivage complètement immobile, où jouent seulement les bulles d'eau dont je parle. Ces bulles ont des trajectoires dans l'air qui épousent les légers remous émotionnels que l'on éprouve sur la plage de sable égal, devant une mer pratiquement inerte, qui ne fait pas un mouvement pour perturber l'atmosphère vaporeuse. Les bulles semblent glisser sur tout, sans cesse rebondir, s'échapper et, par nature, leur cloison ne permet guère de comprendre ce qu'elles recèlent : on ne fait que voir à travers elles. C'est le caractère de la musique, infiniment suggestive, caressante pour les sens, mais jamais vraiment définissable. Il nous faut accepter qu'elle est élusive, et que les bulles passent comme si elles n'avaient jamais perturbé le silence autour d'elles. C'est une musique solitaire qui donne l'illusion d'un monde.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TyESXzaO-k0?si=pthNrrOVf3Q_NjQ4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L3-yVswUQAs?si=_yUq60Uy2HoeI9Nw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
